@@ -2,7 +2,7 @@
 
 
 
-# <div align="center"> Landing-Page-Starbucks </p>
+# <div align="center"> Landing Page Starbucks </p>
 
 <div align="center">Uma landing page com animação utilizando HTML CSS e JavaScript. </p>
 
